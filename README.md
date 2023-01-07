@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a data scientist, I am constantly learning and looking to improve my skills. I have a strong foundation in machine learning and statistical analysis, and enjoy applying these techniques to solve real-world problems. I have experience working with large data sets and I am comfortable with preprocessing data. While I am still learning and growing as a data scientist, I am eager to take on new challenges and contribute to meaningful projects. In my free time, I enjoy participating in online communities and keeping up with the latest developments in the field.
 <!--
 **TARIQ-Lamyae/TARIQ-Lamyae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
