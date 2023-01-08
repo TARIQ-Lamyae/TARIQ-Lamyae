@@ -20,8 +20,6 @@
 
 ### :gear: &nbsp; Technologies and Tools I use 
 <p align="center">
-  <img src= "https://nightingalehq.ai/knowledgebase/glossary/what-is-jupyter/jupyter_hu55e85fab71a39b400081f279496f95b4_62056_1200x675_fill_q75_box_smart1.jpg
-" width="150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" width="100">&nbsp;&nbsp;
   <img src="https://nexenstial.com/assets/images/angular.gif" width="100">&nbsp;&nbsp;
   <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width="100", height = "90">&nbsp;&nbsp;
