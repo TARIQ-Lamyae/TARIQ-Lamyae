@@ -1,7 +1,7 @@
  <img align="right" alt="GIF" src="https://github.com/TARIQ-Lamyae/TARIQ-Lamyae/blob/main/HELLO.gif?raw=true" />  
  &nbsp;&nbsp;&nbsp;
- 
-### :person_with_pouting_face: &nbsp;Fast Facts About Lamya !
+
+### :pouting_face: &nbsp;Fast Facts About Lamya !
 
 - :mortar_board: I have Two master's degrees in computer science.
 - :newspaper: I love reading state-of-the-art articles.
