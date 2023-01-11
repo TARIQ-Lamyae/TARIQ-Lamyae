@@ -41,3 +41,9 @@
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=TARIQ-Lamyae&hide_border=true&theme=nightowl"/>
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=TARIQ-Lamyae&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
     </p>
+
+<!-- NEXT STEPS : 
+add libraries i worked with 
+add to do list for 2023 
+try to improve my profile
+>
